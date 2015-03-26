@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+       android:id="@+id/action_encounter"
+        android:showAsAction="ifRoom"
+        android:title="Encounters" />
+    
+    <item
+        android:id="@+id/action_connection"
+        android:showAsAction="ifRoom"
+        android:title="Connections" />
+</menu>
